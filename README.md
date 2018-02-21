@@ -1,2 +1,2 @@
 # FrameworkTemplate
-Selenium
+Its a sample selenium framework supporting all types of techniques
